@@ -1,16 +1,12 @@
-# creator_landing_page
+# Creator Landing Page - Flutter Web UI
 
-The Creator - Landing Page
+This project is a Flutter web application showcasing a landing page for "The Creator". It's designed to be visually appealing and informative, potentially attracting potential clients or promoting the services offered by The Creator.
 
-## Getting Started
+### Features:
 
-This project is a starting point for a Flutter application.
+- Customizable text styles and colors (potentially using a separate colors.dart file)
+- Reusable UI components (like buttons, text fields) for efficient development
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
