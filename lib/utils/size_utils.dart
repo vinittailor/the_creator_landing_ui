@@ -8,7 +8,6 @@ const num DESIGN_STATUS_BAR = 112;
 
 ///This method is used to get device viewport width.
 get width {
-  print("width is ${size.width}");
   return size.width;
 }
 
@@ -17,7 +16,6 @@ get height {
   num statusBar =
       MediaQueryData.fromWindow(WidgetsBinding.instance.window).viewPadding.top;
   num screenHeight = size.height - statusBar;
-  print("height is ${size.height}");
   return screenHeight;
 }
 
